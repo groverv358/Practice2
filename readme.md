@@ -1,3 +1,4 @@
 # Practice 2
 
-## Creating gti repo locally
+## Creating git repo locally
+
